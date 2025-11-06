@@ -1,0 +1,18 @@
+-----
+1 - Quantity: 1 - Subtotal: 1.00 Taka
+-----
+Hot - Quantity: 2 - Subtotal: 40.00 Taka
+-----
+1 - Quantity: 1 - Subtotal: 1.00 Taka
+-----
+Hot - Quantity: 2 - Subtotal: 40.00 Taka
+-----
+Order Time: 22:54:38
+Hot - Quantity: 2 - Subtotal: 40.00 Taka
+=========================================
+-----
+Order Time: 22:57:02
+Hot - Quantity: 5 - Subtotal: 100.00 Taka
+caffino - Quantity: 30 - Subtotal: 6000.00 Taka
+=========================================
+=========================================

@@ -1,0 +1,80 @@
+-----
+1 - Quantity: 1 - Subtotal: 1.00 Taka
+-----
+Hot - Quantity: 2 - Subtotal: 40.00 Taka
+-----
+Order Time: 22:54:38
+Hot - Quantity: 2 - Subtotal: 40.00 Taka
+=========================================
+-----
+Order Time: 22:57:02
+Hot - Quantity: 5 - Subtotal: 100.00 Taka
+caffino - Quantity: 30 - Subtotal: 6000.00 Taka
+=========================================
+-----
+Order Time: 23:10:23
+caffino - Quantity: 4 - Subtotal: 800.00 Taka
+caffino - Quantity: 4 - Subtotal: 800.00 Taka
+caffino - Quantity: 2 - Subtotal: 400.00 Taka
+caffino - Quantity: 2 - Subtotal: 400.00 Taka
+caffino - Quantity: 4 - Subtotal: 800.00 Taka
+=========================================
+-----
+Order Time: 2023-12-24 18:42:27
+Hot - Quantity: 1 - Subtotal: 20.00 Taka
+=========================================
+-----
+Order Time: 2023-12-24 21:36:31
+water - Quantity: 200 - Subtotal: 5000.00 Taka
+=========================================
+-----
+Order Time: 2023-12-24 21:56:17
+Capaccino - Quantity: 23 - Subtotal: 460.00 Taka
+=========================================
+-----
+Order Time: 2023-12-24 21:58:41
+Capaccino - Quantity: 1 - Subtotal: 20.00 Taka
+=========================================
+-----
+Order Time: 2023-12-25 01:23:43
+Espresso - Quantity: 3 - Subtotal: 750.00 Taka
+=========================================
+-----
+Order Time: 2023-12-25 01:35:11
+Espresso - Quantity: 3 - Subtotal: 750.00 Taka
+=========================================
+-----
+Order Time: 2023-12-25 01:56:03
+Latte - Quantity: 8 - Subtotal: 1600.00 Taka
+=========================================
+-----
+Order Time: 2023-12-25 01:58:04
+Cappuccino - Quantity: 31 - Subtotal: 6200.00 Taka
+=========================================
+-----
+Order Time: 2023-12-25 01:58:20
+Cappuccino - Quantity: 10 - Subtotal: 2000.00 Taka
+=========================================
+-----
+Order Time: 2023-12-25 02:00:05
+Caramel - Quantity: 9 - Subtotal: 90000.00 Taka
+=========================================
+-----
+Order Time: 2023-12-25 21:10:59
+Macchiato - Quantity: 193 - Subtotal: 48250.00 Taka
+ Total Bill of this customer: 48250.00 Taka 
+=========================================
+-----
+Order Time: 2023-12-25 21:45:35
+Mocha - Quantity: 47 - Subtotal: 0.00 Taka
+ Total Bill of this customer: 0.00 Taka 
+=========================================
+-----
+Order Time: 2023-12-25 21:47:46
+Latte - Quantity: 48 - Subtotal: 9600.00 Taka
+ Total Bill of this customer: 9600.00 Taka 
+=========================================
+-----
+Order Time: 2023-12-25 22:40:07
+ Total Bill of this customer: 0.00 Taka 
+=========================================
